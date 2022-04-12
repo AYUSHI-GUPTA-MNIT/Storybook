@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="20" viewBox="0 0 35 20">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="35" height="20" fill="#FD9" rx="2"/>
+        <text fill="#1F2933" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" letter-spacing=".4">
+            <tspan x="4" y="15">NE</tspan> <tspan x="20.286" y="15">W</tspan>
+        </text>
+    </g>
+</svg>
